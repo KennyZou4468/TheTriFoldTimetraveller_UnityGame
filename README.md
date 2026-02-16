@@ -5,7 +5,12 @@
 ## 📖 项目简介
 
 《The TriFold Timetraveller》是一个独立游戏项目，由多个梦境关卡和精心设计的场景组成。玩家将穿越不同的时间和空间，体验独特的游戏故事。
-
+## 游戏Demo
+视频演示demo：https://www.bilibili.com/video/BV15hZNBSE55/?vd_source=8e598f658d074544cf8ad3e4f322a1b2
+## 项目人员
+李一睿
+刘玥含
+邹凯意
 ## 🎮 游戏特性
 
 - 🎨 **丰富的美术资源** - 多套精心设计的角色和场景美术
